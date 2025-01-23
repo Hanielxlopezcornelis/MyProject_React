@@ -1,2 +1,2 @@
 # MyProject_React
-Project from scratch, a page of movies with their description and rating
+This project involves creating an interactive website to explore a wide selection of films. The main interface will display the covers of the films, and clicking on each one will display detailed information including the synopsis, rating and user reviews.
